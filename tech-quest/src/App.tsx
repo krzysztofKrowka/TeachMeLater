@@ -85,7 +85,7 @@ function App() {
       <CssBaseline />
     <div className="App">
       <div style={{height:'70px',color:"#cccccc",marginTop:0}}>
-      <h3 style={{fontSize:"32px",padding:35  }}>TeachMeLater</h3>
+      <h3 style={{fontSize:"32px",padding:35  }}>Teach<span style={{color:"#e83030"}}>Me</span>Later</h3>
       </div>
       <Input 
         addQuiz={ (date:Date,type:string,subject:string,time:number,command:string,createDate:Date) => addQuiz(date,type,subject,time,command,createDate)} 
