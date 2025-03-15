@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TeachMeLater</string>
+    <string name="title_activity_main">TeachMeLater</string>
+    <string name="package_name">com.TeachMeLater.xp</string>
+    <string name="custom_url_scheme">com.TeachMeLater.xp</string>
+</resources>
